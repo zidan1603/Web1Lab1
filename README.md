@@ -15,5 +15,8 @@ $ git config -global user.email
 "Email anda"
 ![Gambar 3](screenshot/ss3.png)
 ## Masuk Github
-Kedua klian login github di website kalian lalu akan muncul tampilan dashbord dari github tersebut
+Kedua kalian login github di website kalian lalu akan muncul tampilan dashbord dari github tersebut
 ![Gambar 4](screenshot/ss4.png)
+## Buat Repositori
+Keiga kalian membuat repositori nya terlebih dahulu,klik tombol baru pada menu repositori untuk membuat repositori terlebih dahulu
+![Gambar 5](screenshot/ss5.png)
