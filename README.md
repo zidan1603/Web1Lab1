@@ -20,3 +20,5 @@ Kedua kalian login github di website kalian lalu akan muncul tampilan dashbord d
 ## Buat Repositori
 Keiga kalian membuat repositori nya terlebih dahulu,klik tombol baru pada menu repositori untuk membuat repositori terlebih dahulu
 ![Gambar 5](screenshot/ss5.png)
+Setelah itu kalian akan membuat nama repositori kalian dengan mengklik buat repositori baru
+![Gambar 6](screenshot/ss6.png)
