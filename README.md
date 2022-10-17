@@ -22,3 +22,6 @@ Keiga kalian membuat repositori nya terlebih dahulu,klik tombol baru pada menu r
 ![Gambar 5](screenshot/ss5.png)
 Setelah itu kalian akan membuat nama repositori kalian dengan mengklik buat repositori baru
 ![Gambar 6](screenshot/ss6.png)
+Lalu kalian membuat file baru di local disk C kalian dengan memberi nama Latihan VCS
+![Gambar 7](screenshot/ss7.png)
+![Gambar 8](screenshot/ss8.png)
