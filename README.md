@@ -1,4 +1,4 @@
-# Web1Lab1
+# Latihan
 # Git Hub
 # Tutorial penggunaan GIT
 ![Gambar 1](screenshot/ss1.png)
