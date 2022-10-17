@@ -30,4 +30,4 @@ Lalu arahkan git bash pada directory file anda dengan menggunakan perintah cd/lo
 ![Gambar 9](screenshot/ss9.png)
 ## Repositori Clone
 Repositori clone untuk mengcopy server repositori secara otomatis membuat satu direktori sesuia dengan nama repositorinya dengan menggunkan perintah git clone (url)
-
+![Gambar10](screenshot/ss10.png)
