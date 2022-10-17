@@ -31,3 +31,10 @@ Lalu arahkan git bash pada directory file anda dengan menggunakan perintah cd/lo
 ## Repositori Clone
 Repositori clone untuk mengcopy server repositori secara otomatis membuat satu direktori sesuia dengan nama repositorinya dengan menggunkan perintah git clone (url)
 ![Gambar10](screenshot/ss10.png)
+## Menambahkan File baru pada repository
+. Untuk menambahkan file yang baru saja dibuat gunakan perintah git add
+. Lalu setelah berhasil ditambahkan Untuk menyimpan perubahan yang ada ke dalam repositori lokal gunakan perintah git commit -m "Komentar"
+. Lalu untuk mengirim perubahan pada repositori lokal gunakan perintah git push -u origin main
+## lihat hasilnya di repositori
+[Gamabar 11](screenshot/ss11.png)
+## Terimakasih
