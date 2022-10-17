@@ -28,5 +28,6 @@ Keempat kalian membuat folder baru di local disk C kalian dengan memberi nama La
 ![Gambar 8](screenshot/ss8.png)
 Lalu arahkan git bash pada directory file anda dengan menggunakan perintah cd/local disk/nama file anda
 ![Gambar 9](screenshot/ss9.png)
-
+## Repositori Clone
+Repositori clone untuk mengcopy server repositori secara otomatis membuat satu direktori sesuia dengan nama repositorinya dengan menggunkan perintah git clone (url)
 
